@@ -9,4 +9,4 @@ cadastro pelo dispositivo móvel e assim cair já no banco de dados de membros d
 decidir criar um protótipo desse aplicativo, tendo como referências outros aplicativos.
 
 <p>
-<h2)Obs: Abrir o arquivo .html</h2>
+<h2>Obs: Abrir o arquivo .html</h2>
